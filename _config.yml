@@ -1,0 +1,12 @@
+title: Philosophy Papers for Anthropic
+description: A collection of philosophy papers and essays on AI ethics, technological impact, and value alignment written during undergraduate coursework at IIIT-Delhi
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+author: Sunishka Sharma
+social:
+  linkedin: 
+  github: 
+  email: 
+plugins:
+  - jekyll-seo-tag 
