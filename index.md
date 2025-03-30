@@ -6,7 +6,7 @@ description: Academic Portfolio in Philosophy and AI Ethics (2020-2024)
 
 <div class="main-header">
   <h1>Philosophy Papers for Anthropic</h1>
-  <p class="subtitle">Academic Portfolio in Philosophy, AI Ethics, and Cognitive Systems (2020-2024)</p>
+  <p class="subtitle">Academic Portfolio in Philosophy and AI Ethics (2020-2024)</p>
 </div>
 
 This collection represents my philosophical and empirical research on AI ethics, algorithmic accountability, behavioral evaluation, and technological impact. My work directly addresses many of Anthropic's core concerns: **designing AI systems that demonstrate good judgment, align with human values, and respond appropriately across diverse scenarios**.
