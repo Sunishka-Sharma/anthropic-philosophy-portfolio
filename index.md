@@ -20,26 +20,47 @@ This collection represents my philosophical research on AI ethics, algorithmic a
 
 ---
 
-## Overview
-
-My academic work explores the intersection of philosophy, ethics, and emerging technology, with particular focus on:
-
-<div class="features-grid">
-  <div class="feature">
-    <h3>Algorithmic Accountability</h3>
-    <p>Examining theoretical frameworks for responsible AI governance and oversight</p>
+<section class="overview-section">
+  <h2 class="section-heading">Overview</h2>
+  
+  <p class="lead-paragraph">My academic work explores the intersection of philosophy, ethics, and emerging technology, drawing from sociological theory, epistemology, and normative frameworks to address pressing questions in the digital age.</p>
+  
+  <div class="research-focus">
+    <h3>Research Focus Areas</h3>
+    
+    <div class="features-grid">
+      <div class="feature">
+        <h4>Algorithmic Accountability</h4>
+        <p>Examining theoretical frameworks for responsible AI governance and oversight, with attention to power dynamics and structural inequalities</p>
+      </div>
+      
+      <div class="feature">
+        <h4>Value Alignment</h4>
+        <p>Analyzing how technological systems can be designed to align with human values and ethical principles across diverse cultural contexts</p>
+      </div>
+      
+      <div class="feature">
+        <h4>Ethical Implications</h4>
+        <p>Investigating the moral consequences of recommendation systems, automated decision-making, and AI deployment from consequentialist and deontological perspectives</p>
+      </div>
+      
+      <div class="feature">
+        <h4>Sociological Analysis</h4>
+        <p>Applying frameworks from Durkheim, Latour, and contemporary sociologists to understand how technologies reshape social structures and human relationships</p>
+      </div>
+    </div>
   </div>
   
-  <div class="feature">
-    <h3>Value Alignment</h3>
-    <p>Analyzing how technological systems can be designed to align with human values and ethical principles</p>
+  <div class="methodologies">
+    <h3>Philosophical Approaches</h3>
+    <ul class="approach-list">
+      <li><span class="approach-label">Disclosive Ethics:</span> Revealing hidden values embedded in technological systems</li>
+      <li><span class="approach-label">Critical Theory:</span> Examining power dynamics in technological infrastructures</li>
+      <li><span class="approach-label">Post-Phenomenology:</span> Analyzing human-technology relationships and experiential dimensions</li>
+      <li><span class="approach-label">Virtue Ethics:</span> Exploring character development in digital contexts</li>
+    </ul>
   </div>
-  
-  <div class="feature">
-    <h3>Ethical Implications</h3>
-    <p>Investigating the moral consequences of recommendation systems, automated decision-making, and AI deployment</p>
-  </div>
-</div>
+</section>
 
 <div class="category-preview">
   <h2>Core Portfolio</h2>
