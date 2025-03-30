@@ -8,7 +8,7 @@ This website showcases a portfolio of academic papers written during undergradua
 
 ## Website
 
-Visit the live website at: [https://YOUR-USERNAME.github.io/anthropic-philosophy-portfolio/](https://YOUR-USERNAME.github.io/anthropic-philosophy-portfolio/)
+Visit the live website at: [https://Sunishka-Sharma.github.io/anthropic-philosophy-portfolio/](https://Sunishka-Sharma.github.io/anthropic-philosophy-portfolio/)
 
 ## Features
 
