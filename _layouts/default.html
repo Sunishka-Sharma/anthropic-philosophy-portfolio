@@ -139,6 +139,8 @@
       /* Main Content */
       main {
           padding: 2rem 0;
+          max-width: 1200px;
+          margin: 0 auto;
       }
       
       /* Sections */
@@ -176,6 +178,9 @@
           box-shadow: 0 2px 10px var(--shadow);
           transition: all 0.3s ease;
           border-left: 5px solid #e0e0e0;
+          max-width: 900px;
+          margin-left: auto;
+          margin-right: auto;
       }
       
       .paper-entry:hover {
@@ -244,11 +249,12 @@
       
       /* Navigation Links */
       .navigation-links {
-          margin: 1.5em 0;
+          margin: 1.5em auto;
           text-align: center;
           padding: 15px;
           background: var(--background-alt);
           border-radius: 8px;
+          max-width: 900px;
       }
       
       .nav-link {
@@ -317,13 +323,13 @@
     <header>
       <nav>
         <div class="logo">
-          <img src="/1730877182660.jpeg" alt="Sunishka Sharma">
+          <img src="1730877182660.jpeg" alt="Sunishka Sharma">
         </div>
         <ul>
-          <li><a href="/index.html" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
-          <li><a href="/core-portfolio.html" {% if page.url == "/core-portfolio.html" %}class="active"{% endif %}>Core Portfolio</a></li>
-          <li><a href="/additional-research.html" {% if page.url == "/additional-research.html" %}class="active"{% endif %}>Additional Research</a></li>
-          <li><a href="/supplemental-work.html" {% if page.url == "/supplemental-work.html" %}class="active"{% endif %}>Supplemental Work</a></li>
+          <li><a href="index.html" {% if page.url == "/" or page.url == "/index.html" %}class="active"{% endif %}>Home</a></li>
+          <li><a href="core-portfolio.html" {% if page.url == "/core-portfolio.html" %}class="active"{% endif %}>Core Portfolio</a></li>
+          <li><a href="additional-research.html" {% if page.url == "/additional-research.html" %}class="active"{% endif %}>Additional Research</a></li>
+          <li><a href="supplemental-work.html" {% if page.url == "/supplemental-work.html" %}class="active"{% endif %}>Supplemental Work</a></li>
         </ul>
       </nav>
     </header>
@@ -337,10 +343,10 @@
         <p>&copy; 2025 Sunishka Sharma</p>
         <p>Philosophy & AI Ethics Portfolio for Anthropic's Model Behavior Architect Role</p>
         <div class="footer-links">
-          <a href="/index.html">Home</a> | 
-          <a href="/core-portfolio.html">Core Portfolio</a> | 
-          <a href="/additional-research.html">Additional Research</a> | 
-          <a href="/supplemental-work.html">Supplemental Work</a>
+          <a href="index.html">Home</a> | 
+          <a href="core-portfolio.html">Core Portfolio</a> | 
+          <a href="additional-research.html">Additional Research</a> | 
+          <a href="supplemental-work.html">Supplemental Work</a>
         </div>
       </div>
     </footer>

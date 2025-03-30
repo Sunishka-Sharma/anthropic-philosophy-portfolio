@@ -168,6 +168,9 @@ li {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 1.5rem;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .approach-list li {
@@ -193,6 +196,9 @@ li {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 2rem;
     margin-bottom: 2rem;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .card {
@@ -224,6 +230,9 @@ li {
     padding: 2rem;
     box-shadow: 0 4px 6px var(--shadow);
     margin-bottom: 2rem;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .takeaways {
@@ -243,6 +252,9 @@ li {
 .table-container {
     overflow-x: auto;
     margin-bottom: 2rem;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 table {
