@@ -4,7 +4,10 @@ title: Supplemental Work
 description: Additional academic explorations and theoretical analyses
 ---
 
-# Supplemental Work
+<div class="main-header">
+  <h1>Supplemental Work</h1>
+  <p class="subtitle">Additional academic explorations and theoretical analyses</p>
+</div>
 
 These papers demonstrate the breadth of my philosophical inquiry, including explorations of sociological theory, social impact evaluation, and conceptual analyses.
 

@@ -4,7 +4,10 @@ title: Additional Research
 description: Broader perspectives on ethics, AI bias, and policy
 ---
 
-# Additional Research
+<div class="main-header">
+  <h1>Additional Research</h1>
+  <p class="subtitle">Broader perspectives on ethics, AI bias, and policy</p>
+</div>
 
 These papers expand my philosophical investigations into broader contexts, exploring ethical frameworks, bias in AI systems, and policy implications of emerging technologies.
 

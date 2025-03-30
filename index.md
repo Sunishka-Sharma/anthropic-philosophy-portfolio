@@ -4,7 +4,10 @@ title: Philosophy Papers for Anthropic
 description: Academic Portfolio in Philosophy and AI Ethics (2020-2024)
 ---
 
-# Philosophy Papers for Anthropic
+<div class="main-header">
+  <h1>Philosophy Papers for Anthropic</h1>
+  <p class="subtitle">Academic Portfolio in Philosophy and AI Ethics (2020-2024)</p>
+</div>
 
 This collection represents my philosophical research on AI ethics, algorithmic accountability, and technological impact, written during my undergraduate studies at IIIT-Delhi from 2020–2024. These papers have been selected for their relevance to Anthropic's mission of building AI systems that are safe, interpretable, and aligned with human values.
 

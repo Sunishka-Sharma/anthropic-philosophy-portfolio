@@ -4,7 +4,10 @@ title: Core Portfolio
 description: Primary research on AI ethics and algorithmic accountability
 ---
 
-# Core Portfolio
+<div class="main-header">
+  <h1>Core Portfolio</h1>
+  <p class="subtitle">Primary research on AI ethics and algorithmic accountability</p>
+</div>
 
 This collection represents my primary research on AI ethics, algorithmic accountability, and value alignment. These papers directly address key questions in responsible AI development.
 
