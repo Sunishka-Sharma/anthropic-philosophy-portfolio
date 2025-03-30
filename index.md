@@ -48,6 +48,22 @@ This collection represents my philosophical research on AI ethics, algorithmic a
         <h4>Sociological Analysis</h4>
         <p>Applying frameworks from Durkheim, Latour, and contemporary sociologists to understand how technologies reshape social structures and human relationships</p>
       </div>
+      
+      <div class="feature">
+        <h4>Cognitive Science Applications</h4>
+        <p>Integrating insights from psychology and neuroscience to examine how AI systems interact with human cognition and behavior, informed by research in neuropsychiatry</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="interdisciplinary-experience">
+    <h3>Interdisciplinary Research Experience</h3>
+    <div class="experience-grid">
+      <div class="experience-entry">
+        <h4>Cognitive Science Lab</h4>
+        <p class="experience-subtitle">Deep Learning for Neuropsychiatry and ADHD Diagnosis</p>
+        <p>Worked in the Cognitive Science Lab within the deep learning space, contributing to research endeavors aimed at neuropsychiatry and ADHD diagnosis. This experience informed my philosophical investigations into ethical dimensions of AI in healthcare, including questions of autonomy, bias, and the medical-technological interface.</p>
+      </div>
     </div>
   </div>
   
