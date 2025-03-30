@@ -128,7 +128,7 @@ These papers were written between 2020–2024 during my undergraduate coursework
 
 I enrolled in **every philosophy elective offered at IIIT-Delhi** and received a **perfect GPA (10/10)** in all of them. These courses were taught by scholars with active research in ethics, philosophy of technology, and political theory.
 
-Notably, IIIT-Delhi uses a **relative, weighted GPA system** — meaning GPA is not awarded based on absolute marks but on comparative performance. In these philosophy courses, **only two students** (myself included) received a GPA of 9 or above. I took these electives **alongside Master’s and PhD students**, many of whom had extensive backgrounds in philosophy or the social sciences.
+Notably, IIIT-Delhi uses a **relative, weighted GPA system** — meaning GPA is not awarded based on absolute marks but on comparative performance. In these philosophy courses, **only 2-3 students** (myself included) received a GPA of 9 or above. I took these electives **alongside Master’s and PhD students**, many of whom had extensive backgrounds in philosophy or the social sciences.
 
 ### 📘 Philosophy Courses Completed with Distinction
 
